@@ -1,0 +1,2 @@
+scraply==1.0.2
+vulheader==1.0.1
