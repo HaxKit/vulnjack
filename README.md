@@ -12,13 +12,17 @@ VulnJack is a command-line tool that scrapes a given website and checks for the 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ HaxKit/vulnjack.git
+git clone https://github.com/HaxKit/vulnjack.git
 ```
 
 3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+```
+python3 install.py
 ```
 
 ## Usage
